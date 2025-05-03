@@ -1,0 +1,10 @@
+{
+  "editor.fontFamily": "'HackGen35 Console NF'",
+  "editor.tabSize": 2,
+  "search.useIgnoreFiles": true,
+  "search.useGlobalIgnoreFiles": true,
+  "terminal.integrated.fontFamily": "HackGen35 Console NF",
+  "terminal.integrated.fontSize": 11,
+  "workbench.colorTheme": "GitHub Dark Default",
+  "workbench.iconTheme": "material-icon-theme"
+}
