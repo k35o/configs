@@ -1,10 +1,13 @@
 {
+  "editor.accessibilitySupport": "off",
   "editor.fontFamily": "'HackGen35 Console NF'",
+  "editor.formatOnSave": true,
   "editor.tabSize": 2,
   "search.useIgnoreFiles": true,
   "search.useGlobalIgnoreFiles": true,
   "terminal.integrated.fontFamily": "HackGen35 Console NF",
   "terminal.integrated.fontSize": 11,
+  "typescript.updateImportsOnFileMove.enabled": "always",
   "workbench.colorTheme": "GitHub Dark Default",
   "workbench.iconTheme": "material-icon-theme"
 }
